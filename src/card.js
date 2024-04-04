@@ -1,4 +1,4 @@
-import { tovarsObj } from "./items";
+import {tovarsObj} from "src\items.js";
 let cards=Array.from(document.querySelectorAll(".card"));
 cards.forEach(function(elem,index){
     elem.querySelector("img").src=`img/${tovarsObj[index].imgSrc}`;
