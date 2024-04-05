@@ -1,7 +1,8 @@
-export let tovarsObj=[
+
+export let itemsObj=[
     {
         nameTovar:"Фитнес-браслет DEXP SB60",
-        imgSrc:"img\one.jpg",
+        imgSrc:"one.jpg",
         corpus:"черный",
         remen:"черный",
         displaySize:"0.96\"",
@@ -14,7 +15,7 @@ export let tovarsObj=[
     },
     {
         nameTovar:"Смарт-часы RunGo W2",
-        imgSrc:"img\two.jpg",
+        imgSrc:"two.jpg",
         corpus:"зеленый",
         remen:"зеленый",
         displaySize:".3\"",
@@ -27,7 +28,7 @@ export let tovarsObj=[
     },
      {
         nameTovar:"Смарт-часы Welbe Prime",
-        imgSrc:"img\three.jpg",
+        imgSrc:"three.jpg",
         corpus:"черный",
         remen:"розовый",
         displaySize:"1.69\"",
